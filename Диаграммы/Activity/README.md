@@ -9,14 +9,14 @@
 ## 1.1 Начать игру <a name="1.1"></a>
 После выбора направления движения птицы начинается игровой процесс.
 
-![Start](https://github.com/FLAPJVCK/FlappyBird/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Activity/Start.png)
+![Start](https://user-images.githubusercontent.com/48159601/68794452-152b2e80-0660-11ea-948b-78dff1385c02.png)
 
 ## 1.2 Смерть персонажа/птицы <a name="1.2"></a>
 Если игрок сталкивается с трубой, то игра на этом прекращается. После этого отображается окно со статистикой данной попытки.
 
-![Die bird and statistics](https://github.com/FLAPJVCK/FlappyBird/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Activity/Bird%20die%20and%20statistics.png)
+![Bird die and statistics](https://user-images.githubusercontent.com/48159601/68794545-4a378100-0660-11ea-98ec-ad8cc03f4686.png)
 
 ## 1.3 Выход из игры <a name="1.3"></a>
-При нажатии пользователем клавиши на клавиатуре("Exit") - игра закрывается.
+При нажатии пользователем клавиши "Exit" – игра закрывается.
 
-![Exit](https://github.com/FLAPJVCK/FlappyBird/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Activity/Exit.png)
+![Exit](https://user-images.githubusercontent.com/48159601/68794604-62a79b80-0660-11ea-8dca-4a8b06be4719.png)
