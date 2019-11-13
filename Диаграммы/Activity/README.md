@@ -17,6 +17,6 @@
 ![Bird die and statistics](https://user-images.githubusercontent.com/48159601/68794545-4a378100-0660-11ea-98ec-ad8cc03f4686.png)
 
 ## 1.3 Выход из игры <a name="1.3"></a>
-При нажатии пользователем клавиши "Exit" – игра закрывается.
+При нажатии кнопки "Выход" произойдёт выход из игры.
 
-![Exit](https://user-images.githubusercontent.com/48159601/68794604-62a79b80-0660-11ea-8dca-4a8b06be4719.png)
+![Exit](https://user-images.githubusercontent.com/48159601/68795268-ab138900-0661-11ea-8ce7-ffaeaab54ba7.png)
