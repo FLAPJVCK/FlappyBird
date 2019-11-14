@@ -4,10 +4,10 @@
 3. [Выход](#3)
 
 ### 1. Игровой процесс<a name="1"></a>
-![Gameplay](https://user-images.githubusercontent.com/48159601/68876125-05b9ed00-0715-11ea-8aa1-6f4d3fa8a193.png)
+![Gameplay](https://user-images.githubusercontent.com/48159601/68878019-0ef88900-0718-11ea-98ba-ffcf366fdb40.png)
 
 ### 2. Изменение настроек<a name="2"></a>
-![Settings](https://user-images.githubusercontent.com/48159601/68875316-af987a00-0713-11ea-9790-5dd0821851c0.png)
+![Settings](https://user-images.githubusercontent.com/48159601/68878020-0ef88900-0718-11ea-8287-ffaedb1806c0.png)
 
 ### 3. Выход<a name="3"></a>
-![Exit1](https://user-images.githubusercontent.com/48159601/68875313-af987a00-0713-11ea-99ad-7a19e6596932.png)
+![Exit1](https://user-images.githubusercontent.com/48159601/68878018-0e5ff280-0718-11ea-927c-6640dbf90ff0.png)
