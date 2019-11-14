@@ -79,6 +79,6 @@
 ### 4. Диаграмма состояний<a name="4"></a>
 [Диграмма состояний](https://github.com/FLAPJVCK/FlappyBird/tree/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/State)
 ### 5. Диаграмма классов<a name="5"></a>
-![Class Diagram1]()
+![Диаграмма классов](https://github.com/FLAPJVCK/FlappyBird/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Class/README.md)
 ### 6. Диаграмма развертывания<a name="6"></a>
 [Диаграмма развертывания](https://github.com/FLAPJVCK/FlappyBird/tree/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Deployment)
