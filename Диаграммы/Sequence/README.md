@@ -4,7 +4,7 @@
 3. [Выход](#3)
 
 ### 1. Игровой процесс<a name="1"></a>
-![Gameplay](https://user-images.githubusercontent.com/48159601/68875315-af987a00-0713-11ea-8678-cdcc2a3ff231.png)
+![Gameplay](https://user-images.githubusercontent.com/48159601/68876125-05b9ed00-0715-11ea-8aa1-6f4d3fa8a193.png)
 
 ### 2. Изменение настроек<a name="2"></a>
 ![Settings](https://user-images.githubusercontent.com/48159601/68875316-af987a00-0713-11ea-9790-5dd0821851c0.png)
